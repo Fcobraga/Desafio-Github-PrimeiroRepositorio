@@ -12,4 +12,7 @@
 - echo : Cria um novo arquivo
 - Git status : Mostra alterações que fora feitas e n estão salvas no terminal
 - git commit -m "comentario": usado para fazer o commit e adiciona o comentario
+- echo :  Cria um novo arquivo
+- Git status : Mostra alterações que fora feitas e n estão salvas no terminal
+- git commit -m "comentario": usado para fazer o commit e adiciona o comentario
 - git push origin main : usado para implementar o commit em nuvem
